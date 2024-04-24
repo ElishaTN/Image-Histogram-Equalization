@@ -1,2 +1,2 @@
 # Image Histogram Equlization
-### Image Histogram Equlization using MATLAB
+### Image Histogram Equlization using MATLAB & Python
